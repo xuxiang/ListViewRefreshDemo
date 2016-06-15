@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, XListViewActivity!</string>
+    <string name="app_name">ListView</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    
+    <string name="heading_dismissable_views">Simple Views</string>
+    <string name="heading_dismissable_list_view">ListView</string>
+    
+    <string name="explanation">This is the left aligned gallery. While it is not perfect, you may find it useful as a starting point for your purposes!</string>
+    
+    <string name="action_fastscroll">Fast scroll</string>
+    <string name="action_addpadding">Add padding</string>
+    <string name="action_showShadow">Show shadow</string>
+    <string name="action_showHeaderAndFooter">Show Header &amp; Footer</string>
+    <string name="action_updateDataset">Update dataset</string>
+
+    <string name="no_data">no data</string>
+    <string name="text_page_0">This is a basic QuickScroll widget, using TYPE_INDICATOR_WITH_HANDLE and STYLE_HOLO flags with a ListView. The indicator has a fixed size of 1 ems.</string>
+    <string name="text_page_1">This is a basic QuickScroll widget with TYPE_POPUP and STYLE_HOLO flags with an ExpandableListView.</string>
+    <string name="text_page_2">This fragment shows QuickScroll usage with a wrapped indicator, custom indicator and handle colors.</string>
+    <string name="text_page_3">Here I use a custom background for the scrolling track (STYLE_NONE) and custom popup colors.</string>
+    <string name="text_page_4">For more information visit: https://github.com/andraskindler/quickscroll.</string>
+   
+    <string name="listfooterview_normal">查看更多</string>
+    <string name="listfooterview_ready">松开载入更多</string>
+</resources>
